@@ -11,6 +11,7 @@
 //                     firefox 8.0 on linux/64-bit - focus gets screwed up
 //                 bugs: opening an item and then using the back button doesn't set the cursor
 // @match          *://*.google.com/search*
+// @match          *://*.google.com.au/search*
 // @version        1.0.1
 // @creator        seth lytle (nqzero), copyright 2011
 // @license        mit/x
